@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dk.magnusjensen.betterlistsorting.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "betterlistsorting.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
